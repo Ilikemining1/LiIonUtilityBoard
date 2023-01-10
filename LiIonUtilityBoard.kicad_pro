@@ -55,7 +55,24 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "hole_near_hole|90675000|63875000|df4a47f0-ec11-4747-9d4c-d1d2f035567a|2fc17b4d-4cd1-4f7c-9fca-58f3553e70b9",
+        "hole_near_hole|90675000|64725000|75b697e7-fdff-4d2c-b222-cbf1f0c7cb0e|df4a47f0-ec11-4747-9d4c-d1d2f035567a",
+        "hole_near_hole|90675000|65575000|526c3b6d-b5bc-46d7-b4d6-58f1876d4e05|75b697e7-fdff-4d2c-b222-cbf1f0c7cb0e",
+        "hole_near_hole|90675000|66425000|efbbc2cd-b337-48ce-86bd-bf862421b33e|526c3b6d-b5bc-46d7-b4d6-58f1876d4e05",
+        "hole_near_hole|90675000|67275000|c4913680-0c12-40f5-8b00-00d0174b574c|efbbc2cd-b337-48ce-86bd-bf862421b33e",
+        "hole_near_hole|90675000|68125000|b5fca1a1-4dcc-4da6-932a-f657aba51b1f|c4913680-0c12-40f5-8b00-00d0174b574c",
+        "hole_near_hole|90675000|68975000|cc8a8fb1-1090-49c2-b6b4-775a63ed7b77|b5fca1a1-4dcc-4da6-932a-f657aba51b1f",
+        "hole_near_hole|92025000|63025000|d78e1d48-c0a4-4ef9-a655-103fa8209e73|47d41334-0734-4375-8bc1-b129f440efb9",
+        "hole_near_hole|92025000|63875000|47d41334-0734-4375-8bc1-b129f440efb9|be55853c-ac2e-41bc-a50c-25dbace3afb7",
+        "hole_near_hole|92025000|64725000|be55853c-ac2e-41bc-a50c-25dbace3afb7|186a50f9-9a7d-47f0-ab55-50ad05d01186",
+        "hole_near_hole|92025000|65575000|186a50f9-9a7d-47f0-ab55-50ad05d01186|7f26a1cc-c5a4-4447-8f45-36c5f1eaa66c",
+        "hole_near_hole|92025000|66425000|7f26a1cc-c5a4-4447-8f45-36c5f1eaa66c|c1a4b69a-9acf-4295-bba4-a731a184bc04",
+        "hole_near_hole|92025000|67275000|c1a4b69a-9acf-4295-bba4-a731a184bc04|a75d51f4-6e3d-4758-b6d4-b10f242858b1",
+        "hole_near_hole|92025000|68125000|a75d51f4-6e3d-4758-b6d4-b10f242858b1|5aba15d7-662b-4e19-84b8-35f9a9857759",
+        "silk_over_copper|86000000|61405000|dc9feb34-24e6-4573-a009-c6a133d84ead|9f633e77-7954-44c5-b34d-b66ae1800aea",
+        "silk_over_copper|86000000|70595000|dc9feb34-24e6-4573-a009-c6a133d84ead|101296ad-51e8-446d-ba3b-a95fc73e08df"
+      ],
       "meta": {
         "version": 2
       },
@@ -134,7 +151,7 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.5,
+          "diameter": 0.56,
           "drill": 0.3
         }
       ],
